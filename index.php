@@ -65,6 +65,7 @@
                 }
                 if (!$errors) {
                     echo "<p>Result = " . $value . "</p>";
+                    echo "a";
                 }
             }
         }
